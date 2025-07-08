@@ -64,14 +64,12 @@ This project simulates a mock Inventory Management System built in Excel, servin
 
 ## 📈 Key Insights
 
-|||
-<colgroup><col /> <col /></colgroup>|---|---|
-|Metric|Value|
-|Total Inventory|1000|
-|Avg. Error Rate|50,1%|
-|Most Appeared Error Type|Lost (26,5 %)|
-|Cylinders “Lost Signal”|3 units|
-|Avg. Lifespan (Est.)|620,5 days|
+| Metric                         | Value         |
+|-------------------------------|---------------|
+| Total Inventory                | 1000            |
+| Avg. Error Rate               | 50.1%           |
+| Most Appeared Error Type      | Lost (26,5 %)   |
+| Avg. Lifespan (Est.)          | 620.5 days       |
 
 ---
 
