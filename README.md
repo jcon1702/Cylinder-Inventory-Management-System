@@ -64,8 +64,6 @@ This project simulates a mock Inventory Management System built in Excel, servin
 
 ## 📈 Key Insights
 
-|||
-<colgroup><col /><col /></colgroup>|---|---|
 |Metric|Value|
 |Total Inventory|1000|
 |Avg. Error Rate|50,1%|
