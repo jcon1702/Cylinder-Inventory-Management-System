@@ -43,10 +43,3 @@ Xây dựng một **Excel‑based Inventory Management System** để:
 ├── docs/ # Slide report & hình ảnh
 
 └── README.md # Hướng dẫn & tóm tắt project
-
-
-## How to Use
-1. Tải xuống Excel từ `data/`.  
-2. Mở `Dashboard` sheet để xem visual.  
-3. Thực hiện Filter/Slicer để drill‑down theo tuần hoặc cylinder type.  
-4. Xem slide report trong `docs/slides/Report_Slides.pptx` để trình bày.
