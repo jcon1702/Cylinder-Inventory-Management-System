@@ -39,7 +39,9 @@ Xây dựng một **Excel‑based Inventory Management System** để:
 
 ## File Structure
 ├── data/ # File Excel nguồn
+
 ├── docs/ # Slide report & hình ảnh
+
 └── README.md # Hướng dẫn & tóm tắt project
 
 
